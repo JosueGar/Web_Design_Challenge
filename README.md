@@ -1,1 +1,1 @@
-# Web_Design_Challenge
+# WebVisualizations
